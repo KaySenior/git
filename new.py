@@ -1,1 +1,1 @@
-#run2
+print("Hello, World!")
